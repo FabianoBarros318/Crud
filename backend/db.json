@@ -1,0 +1,17 @@
+{
+  "Vagas": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvedor Front End ",
+      "salário": 2800.89
+    },
+    {
+      "id": 3,
+      "name": "Desenvolvedor Front End ",
+      "salário": 3400.89
+    }
+  ]
+}
